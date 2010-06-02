@@ -1,0 +1,1 @@
+SimpleAuth module for KohanaPHP 2.3.4 framework
